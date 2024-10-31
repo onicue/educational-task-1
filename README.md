@@ -4,6 +4,9 @@ work for the laboratory assignment.
 
 ![Image](images/img.png)
 
+## Dependencies
+- ***GTK3**
+
 ## Build Instructions
 
 1. **Clone the repository:**
