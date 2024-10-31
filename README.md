@@ -9,7 +9,7 @@ work for the laboratory assignment.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/onicue/educational-task-1
    cd repository
    ```
 2. **Build with CMake**
